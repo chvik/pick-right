@@ -13,7 +13,7 @@ function App() {
   const [userAnswers, setUserAnswers] = useState<UserAnswers>({});
 
   const handleSelectTest = (testId: string) => {
-    fetch(`/tests/${testId}.json`)
+    fetch(`${import.meta.env.BASE_URL}tests/${testId}.json`)
       .then((res) => res.json())
       .then((data) => {
         setCurrentTest(data);
