@@ -10,7 +10,7 @@ export default function TestList({ onSelectTest }: TestListProps) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/tests/tests.json")
+    fetch(`${import.meta.env.BASE_URL}tests/tests.json`)
       .then((res) => res.json())
       .then((data) => {
         setTests(data);
