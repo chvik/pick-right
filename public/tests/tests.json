@@ -1,0 +1,14 @@
+[
+  {
+    "id": "zrinyi-2024-iskolai",
+    "title": "Zrínyi 2024 - Iskolai forduló",
+    "file": "zrinyi-2024-iskolai.json",
+    "questionCount": 25
+  },
+  {
+    "id": "zrinyi-2024-2",
+    "title": "Zrínyi 2024 II. forduló",
+    "file": "zrinyi-2024-2.json",
+    "questionCount": 23
+  }
+]

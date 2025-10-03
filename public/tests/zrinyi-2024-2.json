@@ -1,0 +1,281 @@
+{
+  "title": "Zrínyi 2024 II. forduló",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kerekes Kázmér kedden klassz kis kerékpárjával kilencszer kilenc kilométert kerékpározott Kecskeméten. Hány kilométert kerékpározott Kerekes Kázmér kedden klassz kis kerékpárjával Kecskeméten?",
+      "options": [
+        { "label": "A", "text": "9" },
+        { "label": "B", "text": "18" },
+        { "label": "C", "text": "81" },
+        { "label": "D", "text": "90" },
+        { "label": "E", "text": "99" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Melyik számot kapjuk, ha a 2024 mindegyik számjegye helyére annak kétszeresét írjuk?",
+      "options": [
+        { "label": "A", "text": "1012" },
+        { "label": "B", "text": "2024" },
+        { "label": "C", "text": "4048" },
+        { "label": "D", "text": "4246" },
+        { "label": "E", "text": "4248" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 3,
+      "question": "Az iskolai egészségnapon a 23 fős 4.c osztály tanulói hozták az alapanyagot a gyümölcssalátához. Az osztály mind a 13 lány tanulója 4-4 almát, a fiúk mindegyike pedig 3 barackot hozott. Hány darab gyümölcsöt hoztak az osztály tanulói összesen?",
+      "options": [
+        { "label": "A", "text": "52" },
+        { "label": "B", "text": "69" },
+        { "label": "C", "text": "79" },
+        { "label": "D", "text": "82" },
+        { "label": "E", "text": "92" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Kati asztalán az ábrán látható számkártyák voltak, amelyek közül elvette négyet a 2024 kirakásához. Melyik az a legnagyobb páratlan szám, amelyet az asztalon maradt számkártyákból ki lehet rakni?\n[0] [0] [1] [2] [2] [3] [4] [4]",
+      "options": [
+        { "label": "A", "text": "1034" },
+        { "label": "B", "text": "1043" },
+        { "label": "C", "text": "4301" },
+        { "label": "D", "text": "4310" },
+        { "label": "E", "text": "4431" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 5,
+      "question": "Festéktüsszentő Hapci Benő úgy szeretett volna betűket tüsszenteni sorba rakott kártyákra, hogy a [K] [E] [c] [s] [k] [e] [m] [é] [t] feliratot kapja. Sajnos összekeverte a betűk sorrendjét, így a [k] [I] [E] [c] [s] [K] [é] [m] [e] [t] felirat készült el. Hány olyan kártya van, amelyikre nem azt a betűt tüsszentette, mint amelyiket szerette volna?",
+      "options": [
+        { "label": "A", "text": "4" },
+        { "label": "B", "text": "5" },
+        { "label": "C", "text": "6" },
+        { "label": "D", "text": "7" },
+        { "label": "E", "text": "8" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 6,
+      "question": "Juli néni négy tucat tojást vitt a piacra. Három tucat tojást már eladott, így 24 darabbal kevesebb tojása maradt annál, mint amennyit már eladott. Hány darab tojást vitt Juli néni a piacra?",
+      "options": [
+        { "label": "A", "text": "12" },
+        { "label": "B", "text": "24" },
+        { "label": "C", "text": "36" },
+        { "label": "D", "text": "48" },
+        { "label": "E", "text": "60" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 7,
+      "question": "Árpi a Tudatosan olvasok című könyvet 5 nap alatt olvasta el. A második naptól kezdődően minden nap kétszer annyi oldalt olvasott el, mint az előző nap. Hány oldalas a könyv, ha Árpi a 3. napon 16 oldalt olvasott el?",
+      "options": [
+        { "label": "A", "text": "28" },
+        { "label": "B", "text": "32" },
+        { "label": "C", "text": "64" },
+        { "label": "D", "text": "96" },
+        { "label": "E", "text": "124" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 8,
+      "question": "Hány olyan háromszög látható az ábrán, amelyben van páratlan szám?\nÁbra leírása: Egy négyzet, melyet az átlók négy háromszögre osztanak. A részekbe írt számok (felülről az óramutató járásával megegyezően): 2, 1, 4, 0",
+      "options": [
+        { "label": "A", "text": "1" },
+        { "label": "B", "text": "2" },
+        { "label": "C", "text": "3" },
+        { "label": "D", "text": "4" },
+        { "label": "E", "text": "5" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Az ábra betűi közül leírtunk hármat. Először azt a betűt írtuk le, amelyik benne van a háromszögben és a körben, de nincs benne a négyzetben. Másodjára azt a betűt írtuk le, amelyik benne van a körben, de a háromszögben és a négyzetben nincs. Harmadjára azt a betűt írtuk le, amelyik benne van a négyzetben és a körben, de nincs benne a háromszögben. Melyik három betűt írtuk le?\nÁbra leírása: A: Csak a körben van. H: A kör és a háromszög közös részében van (nincs benne a négyzetben). S: A kör és a négyzet közös részében van (nincs benne a háromszögben). L: Mindhárom alakzat közös részében van. K, Ü: A négyzetben és a háromszögben vannak. V: Csak a háromszögben van.",
+      "options": [
+        { "label": "A", "text": "H A L" },
+        { "label": "B", "text": "H A S" },
+        { "label": "C", "text": "H Ü S" },
+        { "label": "D", "text": "L A K" },
+        { "label": "E", "text": "V A S" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Kata négy ugyanakkora, átlátszó négyzetlapra egy-egy vonalat rajzolt, majd a négy lapot tetszés szerint elforgatva egymásra helyezte úgy, hogy a lapok pontosan fedjék egymást. Melyik ábrát nem kaphatta?",
+      "options": [
+        { "label": "A", "text": "Négyzet, benne egy felülről induló háromszög, alul felezve" },
+        { "label": "B", "text": "Négyzet, átlóval felezve, a másik két sarokból induló vonalak a közepükig érnek" },
+        { "label": "C", "text": "Üres négyzet" },
+        { "label": "D", "text": "Négyzet, két négyzetre osztva, átlós vonalak a közepükig" },
+        { "label": "E", "text": "Négyzet, benne egy nagy X, középen kettéosztva" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Két paradicsombokron összesen 31 paradicsom van, mindegyik vagy piros, vagy zöld. Az egyik bokor 17 paradicsomából 9 piros, a másik bokor paradicsomainak fele piros, fele zöld. Hány zöld paradicsom van a két bokron összesen?",
+      "options": [
+        { "label": "A", "text": "14" },
+        { "label": "B", "text": "15" },
+        { "label": "C", "text": "16" },
+        { "label": "D", "text": "17" },
+        { "label": "E", "text": "31" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Bálint és Ábel tányérján ugyanannyi gombóc volt. Bálint a tányérján lévő gombócok közül kettőt átrakott Ábel tányérjára, hármat pedig megetett. Mennyivel lett így több gombóc Ábel tányérján, mint Bálint tányérján?",
+      "options": [
+        { "label": "A", "text": "1-gyel" },
+        { "label": "B", "text": "2-vel" },
+        { "label": "C", "text": "3-mal" },
+        { "label": "D", "text": "5-tel" },
+        { "label": "E", "text": "7-tel" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 13,
+      "question": "Az öt kutyámat: Bercit (B), Lunát (L), Nérót (N), Pankát (P) és Szellemet (Sz) vacsorázni hívtam. Táljaikhoz egymás után értek oda úgy, hogy Bercit két kutya előzte meg. Szellem és Néró Panka után érkezett, de Panka nem lett első, Néró pedig nem lett utolsó. Milyen sorrendben értek táljaikhoz a kutyák?",
+      "options": [
+        { "label": "A", "text": "L P B N Sz" },
+        { "label": "B", "text": "L P B Sz N" },
+        { "label": "C", "text": "P L B N Sz" },
+        { "label": "D", "text": "N P B Sz L" },
+        { "label": "E", "text": "B L N P Sz" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Andrisnak 6 darab olyan egyforma eleme van, amely 3 kisnégyzetből áll (L alakú elem). Hányféleképpen lehet kirakni ezekből az elemekből egy 3×6-os téglalapot?",
+      "options": [
+        { "label": "A", "text": "1" },
+        { "label": "B", "text": "2" },
+        { "label": "C", "text": "4" },
+        { "label": "D", "text": "6" },
+        { "label": "E", "text": "8" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Írd be az ábra négyzeteibe a 2; 3; 4; 5; 6; 7 és 8 számokat úgy, hogy ahol két négyzet közös oldalán pötty van, oda szomszédos számok és ahol nincs pötty, oda nem szomszédos számok kerüljenek! Melyik szám kerül a szürke négyzetbe? (Két szám szomszédos, ha az egyik 1-gyel nagyobb a másiknál.)\nÁbra leírása: Egy 3×3-as tábla, melynek két sarka és három belső mezője van kitöltve: Bal felső sarok: 1, Jobb alsó sarok: 9, Középső oszlop, középső sor: Szürke négyzet (a kérdezett mező).",
+      "options": [
+        { "label": "A", "text": "3" },
+        { "label": "B", "text": "4" },
+        { "label": "C", "text": "5" },
+        { "label": "D", "text": "6" },
+        { "label": "E", "text": "7" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Aprajafalván a törpök a távolságot icikében, picikében és aprócskában mérik. Hány aprócskával egyenlő 3 icike, ha 1 icike = 4 picike és 6 aprócska = 1 picike?",
+      "options": [
+        { "label": "A", "text": "12" },
+        { "label": "B", "text": "18" },
+        { "label": "C", "text": "24" },
+        { "label": "D", "text": "72" },
+        { "label": "E", "text": "96" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 17,
+      "question": "Egy asztal körül lányok és fiúk ülnek, összesen öten. Az asztal körül nem 1 lány, nem 2 fiú, nem 3 lány, nem 4 fiú és nem 4 lány ül. Mennyivel több fiú ülhet az asztal körül, mint lány?",
+      "options": [
+        { "label": "A", "text": "0" },
+        { "label": "B", "text": "1" },
+        { "label": "C", "text": "2" },
+        { "label": "D", "text": "3" },
+        { "label": "E", "text": "4" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Csiribá, a nagy bűvész piros és kék golyókat tett egy zsákba, összesen 9 darabot. Elmondta a varázsigéjét, így a zsákban a golyók színe felcserélődött: a pirosból kék, a kékből piros lett. Ezután kivett a zsákból 2 piros golyót. Ismét elmondta a varázsigéjét, így a golyók színe ismét felcserélődött. Ezután kivett 1 kék golyót. Így a zsákban ugyanannyi piros golyó maradt, mint kék. Mennyivel több a zsákba tett kék golyók száma annál, mint amennyi kék golyó végül a zsákban maradt?",
+      "options": [
+        { "label": "A", "text": "0" },
+        { "label": "B", "text": "1" },
+        { "label": "C", "text": "2" },
+        { "label": "D", "text": "3" },
+        { "label": "E", "text": "4" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 19,
+      "question": "Bolond Istók az ötlottó e heti öt nyerőszámát a kihúzás sorrendjében, közvetlen egymás mellé 3918046 formában írta le. Hányféle lehet az öt nyerőszám összege? (Az ötlottó sorsoláson az első 90 pozitív egész szám közül húznak ki ötöt.)",
+      "options": [
+        { "label": "A", "text": "1" },
+        { "label": "B", "text": "2" },
+        { "label": "C", "text": "3" },
+        { "label": "D", "text": "4" },
+        { "label": "E", "text": "Ezekből az adatokból nem lehet meghatározni" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Az elvarázsolt kastélyban 4 db egymás melletti szoba található. Mindkét szélső szobának 2 ajtaja van, a többinek pedig 3. Minden ajtó az egymás melletti szobákat köti össze. Hány különböző útvonalon juthat el a királylány a bal oldali szélső szobából a jobb oldali szélső szobába, ha útja során egyik szobában sem jár egynél többször? (Két útvonal nem különböző, ha ugyanazokon az ajtókon megy át.)",
+      "options": [
+        { "label": "A", "text": "4" },
+        { "label": "B", "text": "5" },
+        { "label": "C", "text": "7" },
+        { "label": "D", "text": "12" },
+        { "label": "E", "text": "36" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 21,
+      "question": "Juli leírta az összes olyan háromjegyű pozitív egész számot, amelyben az egyes helyi értéken álló számjegy értéke megegyezik a két nagyobb helyi értéken álló számjegy szorzatával. Hány páros számot írt le Juli?",
+      "options": [
+        { "label": "A", "text": "9" },
+        { "label": "B", "text": "10" },
+        { "label": "C", "text": "13" },
+        { "label": "D", "text": "22" },
+        { "label": "E", "text": "23" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 22,
+      "question": "Ubul úgy titkosított öt egymást követő négyjegyű egész számot, hogy azok számjegyei helyett egy-egy betűt írt. Azonos számjegyeket azonos, különböző számjegyeket különböző betűvel jelölt. A számokat növekvő sorrendben leírta a titkosított formájukban: ÁRIA, ÁRAZ, ÁRAM, ÁRAD, ÁRAK. Hogyan írná Ubul a titkosítási módszerével a híres kecskeméti szőlőnemesítő, Mathiász János születési évszámát, az 1838-at?",
+      "options": [
+        { "label": "A", "text": "KIRA" },
+        { "label": "B", "text": "MÁRA" },
+        { "label": "C", "text": "MIKI" },
+        { "label": "D", "text": "PIRI" },
+        { "label": "E", "text": "ZIZI" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 23,
+      "question": "Anna, Bella, Cili és Dóri mindegyike vagy igazmondó, vagy füllentő. Az igazmondók mindig igazat mondanak, a füllentők mindig hazudnak. Anna azt állította, hogy nincs közöttük igazmondó. Bella azt hogy közülük legfeljebb ketten igazmondók, Cili pedig azt, hogy Dóri füllentő. Hány igazmondó van a négy lány között?",
+      "options": [
+        { "label": "A", "text": "0" },
+        { "label": "B", "text": "1" },
+        { "label": "C", "text": "2" },
+        { "label": "D", "text": "3" },
+        { "label": "E", "text": "4" }
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}

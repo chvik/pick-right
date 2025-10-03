@@ -1,0 +1,308 @@
+{
+  "title": "Zrínyi Ilona Matematikaverseny 2024 - Iskolai forduló",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Melyik művelet eredménye nem egyenlő 120-szal?",
+      "options": [
+        { "label": "A", "text": "12⋅10" },
+        { "label": "B", "text": "240:2" },
+        { "label": "C", "text": "170−40" },
+        { "label": "D", "text": "86+34" },
+        { "label": "E", "text": "325−205" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 2,
+      "question": "A mezőn az őzek megijedtek, és két irányba szétszaladtak (lásd ábra). Hány őz nem abba az irányba szaladt, mint amerre a nyíl mutat?",
+      "image": "/images/q2-deer.png",
+      "options": [
+        { "label": "A", "text": "3" },
+        { "label": "B", "text": "4" },
+        { "label": "C", "text": "5" },
+        { "label": "D", "text": "6" },
+        { "label": "E", "text": "7" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Hány kilométer hosszú a Duna magyarországi szakasza, ha a teljes hossza 2860 km, és ebből 2443 km hosszan nem Magyarországon folyik?",
+      "options": [
+        { "label": "A", "text": "317" },
+        { "label": "B", "text": "407" },
+        { "label": "C", "text": "417" },
+        { "label": "D", "text": "427" },
+        { "label": "E", "text": "517" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Mennyi a legnagyobb olyan háromjegyű számban a számjegyek összege, amelynek mindegyik számjegye páros?",
+      "options": [
+        { "label": "A", "text": "16" },
+        { "label": "B", "text": "18" },
+        { "label": "C", "text": "24" },
+        { "label": "D", "text": "26" },
+        { "label": "E", "text": "27" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Gondoltam egy számra. Kivontam belőle 227-et, és így 627-et kaptam. Melyik számra gondoltam?",
+      "options": [
+        { "label": "A", "text": "300" },
+        { "label": "B", "text": "400" },
+        { "label": "C", "text": "500" },
+        { "label": "D", "text": "854" },
+        { "label": "E", "text": "954" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 6,
+      "question": "Hány centiméter annak a téglalapnak a kerülete, amelynek egyik oldala 4 cm, a másik oldala 2 dm hosszú?",
+      "options": [
+        { "label": "A", "text": "6" },
+        { "label": "B", "text": "12" },
+        { "label": "C", "text": "24" },
+        { "label": "D", "text": "48" },
+        { "label": "E", "text": "60" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Melyik egyenlőség nem igaz?",
+      "options": [
+        { "label": "A", "text": "3 hét=21 nap" },
+        { "label": "B", "text": "2 liter=20 cl" },
+        { "label": "C", "text": "fél kg=50 dkg" },
+        { "label": "D", "text": "7 m=700 cm" },
+        { "label": "E", "text": "2 óra 15 perc=135 perc" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Galagonyafalván a 4.a osztályból 15 tanuló jár atlétika edzésre, közülük 9 fiú. Mennyivel több fiú jár a 4.a osztályból atlétika edzésre Galagonyafalván, mint lány?",
+      "options": [
+        { "label": "A", "text": "2" },
+        { "label": "B", "text": "3" },
+        { "label": "C", "text": "4" },
+        { "label": "D", "text": "6" },
+        { "label": "E", "text": "9" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Mennyi a 11 ezres+11 százas+11 tízes+11 egyes összeg?",
+      "options": [
+        { "label": "A", "text": "11 111" },
+        { "label": "B", "text": "11 222" },
+        { "label": "C", "text": "12 220" },
+        { "label": "D", "text": "12 221" },
+        { "label": "E", "text": "22 222" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 10,
+      "question": "Kati 90 perc alatt tanulta meg a leckét, Zsófi másfél óra alatt. Melyikük készült el hamarabb és mennyi idővel?",
+      "options": [
+        { "label": "A", "text": "Kati 30 perccel" },
+        { "label": "B", "text": "Zsófi 30 perccel" },
+        { "label": "C", "text": "Kati 60 perccel" },
+        { "label": "D", "text": "Zsófi 60 perccel" },
+        { "label": "E", "text": "Ugyanannyi idő alatt készültek el." }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 11,
+      "question": "Négy darab azonos hosszúságú, különböző színű bot egyik végéből levágtunk egy-egy darabot. A vágások után a piros színű botból 19 cm, a sárgából 20 cm, a zöldből 21 cm, a kékből pedig 22 cm hosszúságú darab maradt. Milyen színű botból vágtuk le a leghosszabb darabot?",
+      "options": [
+        { "label": "A", "text": "piros" },
+        { "label": "B", "text": "sárga" },
+        { "label": "C", "text": "zöld" },
+        { "label": "D", "text": "kék" },
+        { "label": "E", "text": "Ezekből az adatokból nem lehet meghatározni." }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Hány x látható az ábrán?\nx x x • • x\n• x • x x x\nx x x • • x\n• x • x x x\nx x • x x x\nx x x x • •",
+      "options": [
+        { "label": "A", "text": "19" },
+        { "label": "B", "text": "25" },
+        { "label": "C", "text": "30" },
+        { "label": "D", "text": "36" },
+        { "label": "E", "text": "42" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Egy padon Ági, Bea, Tomi és Pali ül egymás mellett. Bea mindkét szomszédja fiú, Ági Pali mellett ül. Kik ülnek a pad két végén?",
+      "options": [
+        { "label": "A", "text": "Ági és Tomi" },
+        { "label": "B", "text": "Ági és Pali" },
+        { "label": "C", "text": "Ági és Bea" },
+        { "label": "D", "text": "Bea és Tomi" },
+        { "label": "E", "text": "Pali és Tomi" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Erdélyi kerékpártúránk során Kolozsvárról szeretnénk eljutni Csíkszerdára. Hányféle útvonal közül választhatunk, ha csak a nyilakkal jelzett irányokban haladhatunk?",
+      "image": "/images/q14-map.png",
+      "options": [
+        { "label": "A", "text": "4" },
+        { "label": "B", "text": "5" },
+        { "label": "C", "text": "6" },
+        { "label": "D", "text": "10" },
+        { "label": "E", "text": "36" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Egy villamosra az utolsó előtti megállóban felszállt 8 utas, és leszállt róla 5 utas. Az utolsó megállóban leszállt a villamoson lévő mind a 10 utas. Hány utas volt a villamoson, amikor beérkezett az utolsó előtti megállóba?",
+      "options": [
+        { "label": "A", "text": "3" },
+        { "label": "B", "text": "7" },
+        { "label": "C", "text": "13" },
+        { "label": "D", "text": "18" },
+        { "label": "E", "text": "23" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Kecske Karcsi a Hírös kaszálón 7 óra 45 perctől délig legelt. Fél óra szundítás után folytatta a legelést, amit 17 óra 45 perckor fejezett be. Mennyi időt töltött ezen a napon Karcsi legeléssel?",
+      "options": [
+        { "label": "A", "text": "7 óra 15 perc" },
+        { "label": "B", "text": "9 óra 30 perc" },
+        { "label": "C", "text": "10 órát" },
+        { "label": "D", "text": "11 óra 30 perc" },
+        { "label": "E", "text": "12 órát" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Egy játékzongorán 7 fehér és 5 fekete billentyű van (lásd ábra). Hány olyan billentyű van ezek között, amely két fekete és két fehér billentyűvel szomszédos? (Két billentyű szomszédos, ha az ábrán van közös oldaluk.)",
+      "image": "/images/q17-piano.png",
+      "options": [
+        { "label": "A", "text": "1" },
+        { "label": "B", "text": "2" },
+        { "label": "C", "text": "3" },
+        { "label": "D", "text": "4" },
+        { "label": "E", "text": "5" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Kati palacsintát sütött. Csak a tizedik és az utolsó nem sikerült szépre, mert ezek egy kicsit elszakadtak. A két szakadt palacsinta megsütése között nyolc szépet sütött. Hány palacsintát sütött Kati?",
+      "options": [
+        { "label": "A", "text": "9" },
+        { "label": "B", "text": "10" },
+        { "label": "C", "text": "17" },
+        { "label": "D", "text": "18" },
+        { "label": "E", "text": "19" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 19,
+      "question": "Gombóc Artúr egy kék és egy piros dobozba gyűjti csokoládéit. Most 17 darab van mindkettőben. A kék dobozból áttesz 7 darab csokoládét a pirosba. Mennyi csokoládéval lett több a piros dobozban, mint a kékben?",
+      "options": [
+        { "label": "A", "text": "7" },
+        { "label": "B", "text": "10" },
+        { "label": "C", "text": "14" },
+        { "label": "D", "text": "17" },
+        { "label": "E", "text": "24" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Legkevesebb hány gyermek van abban a családban, amelyben minden gyermekre igaz, hogy legalább egy fiú és legalább egy lány testvére van?",
+      "options": [
+        { "label": "A", "text": "2" },
+        { "label": "B", "text": "3" },
+        { "label": "C", "text": "4" },
+        { "label": "D", "text": "5" },
+        { "label": "E", "text": "6" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Peti összecserélte a billentyűket a számítógépén. Ha a SÁL szót gépelte be, akkor a TUD szó, ha pedig a RÓKA szót, akkor a KÉRI szó jelent meg a képernyőn. Melyik szót gépelhette be, ha a képernyőn a FUKAR szó jelent meg?",
+      "options": [
+        { "label": "A", "text": "KÁROK" },
+        { "label": "B", "text": "KÁROS" },
+        { "label": "C", "text": "PÁROK" },
+        { "label": "D", "text": "PÁROM" },
+        { "label": "E", "text": "PÁROS" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 22,
+      "question": "Törpilla minden pénteken annyi virágszálat kap Kertitörptől, ahányadika van. Mennyi lehet egy hónap alatt az így kapott virágszálak száma, ha az a lehető legnagyobb?",
+      "options": [
+        { "label": "A", "text": "46" },
+        { "label": "B", "text": "71" },
+        { "label": "C", "text": "78" },
+        { "label": "D", "text": "85" },
+        { "label": "E", "text": "92" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 23,
+      "question": "Annához és öccséhez vendégek érkeztek. Miután minden vendég elment, Anna a nagymamájuknak azt telefonálta, hogy „hatnál több vendég volt nálunk”, az öccse pedig azt, hogy „ötnél több vendég volt nálunk”. Hány vendég volt Annáéknál, ha a két gyerek állítása közül csak az egyik igaz?",
+      "options": [
+        { "label": "A", "text": "4" },
+        { "label": "B", "text": "5" },
+        { "label": "C", "text": "6" },
+        { "label": "D", "text": "7" },
+        { "label": "E", "text": "Ezekből az adatokból nem lehet meghatározni." }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Egy dobozban piros, zöld és kék golyók vannak. Legkevesebb 4 golyót kell kihúzni a dobozból, hogy biztosan legyen a kihúzott golyók között piros. Legkevesebb 5 golyót kell kihúzni a dobozból, hogy biztosan legyen a kihúzott golyók között zöld. Legkevesebb 6 golyót kell kihúzni a dobozból, hogy biztosan legyen a kihúzott golyók között kék. Hány golyó van a dobozban?",
+      "options": [
+        { "label": "A", "text": "6" },
+        { "label": "B", "text": "8" },
+        { "label": "C", "text": "9" },
+        { "label": "D", "text": "12" },
+        { "label": "E", "text": "15" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Tréfi, Okoska, Ügyi és Törpilla egy verseny után a következőket mesélték Törpapának:\nTörpilla: Nem Tréfi nyert.\nOkoska: Törpilla nyert.\nÜgyi: Tréfi nyert.\nTréfi: Nem én lettem az első.\nKi nyerte a versenyt, ha a négy törp közül egy mondott igazat?",
+      "options": [
+        { "label": "A", "text": "Okoska" },
+        { "label": "B", "text": "Törpilla" },
+        { "label": "C", "text": "Tréfi" },
+        { "label": "D", "text": "Ügyi" },
+        { "label": "E", "text": "Ezekből az adatokból nem lehet meghatározni." }
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}
