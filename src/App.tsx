@@ -9,12 +9,10 @@ type Screen = "list" | "test" | "results";
 
 function App() {
   const [screen, setScreen] = useState<Screen>("list");
-  const [selectedTestId, setSelectedTestId] = useState<string>("");
   const [currentTest, setCurrentTest] = useState<Test | null>(null);
   const [userAnswers, setUserAnswers] = useState<UserAnswers>({});
 
   const handleSelectTest = (testId: string) => {
-    setSelectedTestId(testId);
     fetch(`/tests/${testId}.json`)
       .then((res) => res.json())
       .then((data) => {
@@ -41,7 +39,6 @@ function App() {
     setScreen("list");
     setCurrentTest(null);
     setUserAnswers({});
-    setSelectedTestId("");
   };
 
   const handleBackFromTest = () => {
