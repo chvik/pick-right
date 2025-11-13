@@ -1,0 +1,251 @@
+{
+  "title": "Zrínyi 2003 Megyei forduló – 4. osztály",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Melyik dominón látható a legtöbb pötty?",
+      "image": "/images/2003-negyedikes/q1.png",
+      "options": [
+        { "label": "A", "text": "A" },
+        { "label": "B", "text": "B" },
+        { "label": "C", "text": "C" },
+        { "label": "D", "text": "D" },
+        { "label": "E", "text": "E" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Mennyi a legnagyobb négyjegyű páros szám fele?",
+      "options": [
+        { "label": "A", "text": "499" },
+        { "label": "B", "text": "500" },
+        { "label": "C", "text": "4554" },
+        { "label": "D", "text": "4999" },
+        { "label": "E", "text": "5000" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 3,
+      "question": "Kecske Karcsi a Hírös kaszálón 7 óra 45 perctől délig legelt. Fél óra szundítás után folytatta a legelést, amit 17 óra 45 perckor fejezett be. Mennyi időt töltött ezen a napon Karcsi legeléssel?",
+      "options": [
+        { "label": "A", "text": "7 óra 15 percet" },
+        { "label": "B", "text": "9 óra 30 percet" },
+        { "label": "C", "text": "10 órát" },
+        { "label": "D", "text": "11 óra 30 percet" },
+        { "label": "E", "text": "12 órát" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Mennyi a 987 - 654 + 321 - 0 műveletsor eredménye?",
+      "options": [
+        { "label": "A", "text": "0" },
+        { "label": "B", "text": "12" },
+        { "label": "C", "text": "333" },
+        { "label": "D", "text": "654" },
+        { "label": "E", "text": "975" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 5,
+      "question": "Egy liter tejből 3 dkg vaj készül. Mennyi tej kell 30 dkg vaj elkészítéséhez?",
+      "options": [
+        { "label": "A", "text": "10 ml" },
+        { "label": "B", "text": "10 cl" },
+        { "label": "C", "text": "10 dl" },
+        { "label": "D", "text": "10 liter" },
+        { "label": "E", "text": "10 hl" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 6,
+      "question": "Tíz kert mindegyikében 10 almafa áll, minden almafán 10 ág nő, minden ágon 10 alma termett, minden almában egy kukac rágcsál. Hány kukac rágcsál összesen a tíz kertben termett almákban?",
+      "options": [
+        { "label": "A", "text": "10" },
+        { "label": "B", "text": "100" },
+        { "label": "C", "text": "1000" },
+        { "label": "D", "text": "10000" },
+        { "label": "E", "text": "100000" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Kertitörp veteményeskertjének tervrajza olyan négyszög, amelynek pontosan két derékszöge és egy párhuzamos oldalpárja van. Melyik lehet az alábbiak közül Kertitörp tervrajza?",
+      "image": "/images/2003-negyedikes/q7.png",
+      "options": [
+        { "label": "A", "text": "A" },
+        { "label": "B", "text": "B" },
+        { "label": "C", "text": "C" },
+        { "label": "D", "text": "D" },
+        { "label": "E", "text": "E" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 8,
+      "question": "A hét törpe moziba ment. Egy mozijegy 840 Ft-ba került. A törpéknél pontosan annyi pénz volt, amennyit a 7 jegyért fizetniük kellett. Hány forint volt Kukánál, ha a többi törpénél 1200 Ft, 574 Ft, 426 Ft, 770 Ft, 800 Ft és 1230 Ft volt?",
+      "options": [
+        { "label": "A", "text": "500" },
+        { "label": "B", "text": "840" },
+        { "label": "C", "text": "880" },
+        { "label": "D", "text": "920" },
+        { "label": "E", "text": "Az előzőek közül egyik sem." }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Melyik páros az alábbi összeadások eredményei közül?",
+      "options": [
+        { "label": "A", "text": "11 + 22 + 44 + 66 + 88" },
+        { "label": "B", "text": "11 + 22 + 33 + 44 + 55" },
+        { "label": "C", "text": "11 + 22 + 11 + 2 + 11" },
+        { "label": "D", "text": "11 + 33 + 5 + 77 + 99" },
+        { "label": "E", "text": "22 + 11 + 22 + 11 + 22" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 10,
+      "question": "Egy négyzet mellé egy fele akkora oldalhosszúságú négyzetet, majd mellé még egy fele akkora oldalhosszúságú négyzetet rajzoltunk. Hány cm az így keletkezett síkidom kerülete, ha a legkisebb négyzet oldala 1 cm?",
+      "image": "/images/2003-negyedikes/q10.png",
+      "options": [
+        { "label": "A", "text": "21" },
+        { "label": "B", "text": "22" },
+        { "label": "C", "text": "23" },
+        { "label": "D", "text": "24" },
+        { "label": "E", "text": "25" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Az ábrán egy négyzetrács 6 rácspontja látható. Mennyi lehet a legöbb olyan négyzet a lapon, amelynek oldala 1 cm hosszú, és legalább 2 csúcsa a 6 rácspont közil való?",
+      "image": "/images/2003-negyedikes/q11.png",
+      "options": [
+        { "label": "A", "text": "2" },
+        { "label": "B", "text": "4" },
+        { "label": "C", "text": "5" },
+        { "label": "D", "text": "6" },
+        { "label": "E", "text": "8" }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "id": 12,
+      "question": "Piroska a nagymamájának háromféle rétest vitt: 7 túrós, 6 almás, 3 meggyes. A nagymamához vezető úton a farkas elvett tőle 2 rétest. Melyik állítás lehet igaz?",
+      "options": [
+        { "label": "A", "text": "Pontosan kétféle rétesből maradt ugyanannyi." },
+        { "label": "B", "text": "Nem maradt meggyes rétes." },
+        { "label": "C", "text": "Kevesebb almás rétes maradt, mint meggyes." },
+        { "label": "D", "text": "Mindháromféle rétesből ugyanannyi maradt." },
+        { "label": "E", "text": "Túrósból több maradt, mint a másik kettőből együtt." }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Legkevesebb hány gyerek van abban a családban, ahol minden gyereknek van legalább egy fiú és egy lány testvére?",
+      "options": [
+        { "label": "A", "text": "2" },
+        { "label": "B", "text": "3" },
+        { "label": "C", "text": "4" },
+        { "label": "D", "text": "5" },
+        { "label": "E", "text": "6" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Nekered város térképén minden teret kör és minden utcát szakasz jelöl (lásd ábra). Legkevesebb hany téren kell kamerát felszerelni ahhoz, hogy a kamerákkal az összes tér látható legyen? (Kamerával azon a téren kívül, ahova felsze- relték, azok a terek láthatók, amelyeket a kamerával felszerelt térrel utca köt össze. Például az F téren lévố kamerával a C, E, F és G terek láthatók.)",
+      "image": "/images/2003-negyedikes/q14.png",
+      "options": [
+        { "label": "A", "text": "1" },
+        { "label": "B", "text": "2" },
+        { "label": "C", "text": "3" },
+        { "label": "D", "text": "4" },
+        { "label": "E", "text": "5" }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 15,
+      "question": "A sárkánykirály minden gyerekének annyi feje van, ahányadiknak született a családban (az elsonek született sárkánygyerek egyfeju, a másodiknak született kétfejú stb.). Legkevesebb hany gyereke van a sárkánykirálynak, ha elküldheti őket az ország három tartományába úgy, hogy mind a három tartomänyban egyidőben ugyanannyi az odaküldött sárkánygyerekck fejeinek a száma?",
+      "options": [
+        { "label": "A", "text": "3" },
+        { "label": "B", "text": "4" },
+        { "label": "C", "text": "5" },
+        { "label": "D", "text": "6" },
+        { "label": "E", "text": "7" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 16,
+      "question": "Az ábrán egy lyukas tábla látható. Összesen 6 pálcika van: 3 sárga, 2 piros, 1 zöld. Hányféleképpen helyezhetők el úgy, hogy sem függőleges, sem vízszintes irányban ne kerüljön két egyforma szín? (Két elhelyezés különböző, ha van olyan lyuk, amelyikbe a két elhelyezésben nem ugyanolyan színt pálcika került.)",
+      "image": "/images/2003-negyedikes/q16.png",
+      "options": [
+        { "label": "A", "text": "0" },
+        { "label": "B", "text": "1" },
+        { "label": "C", "text": "2" },
+        { "label": "D", "text": "3" },
+        { "label": "E", "text": "9" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Két testvér életkorának összege most 16 év. Amikor az összegük 32 év lesz, a fiatalabb annyi idős lesz, mint most az idősebb. Hány éves most a fiatalabb?",
+      "options": [
+        { "label": "A", "text": "1" },
+        { "label": "B", "text": "2" },
+        { "label": "C", "text": "3" },
+        { "label": "D", "text": "4" },
+        { "label": "E", "text": "5" }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 18,
+      "question": "Anna összeadta az összes kétjegyű szám tízes helyiértékű számjegyeit. Balázs összeadta az egyes helyiértékű számjegyeket. Mennyi a nagyobb és kisebb összeg különbsége?",
+      "options": [
+        { "label": "A", "text": "0" },
+        { "label": "B", "text": "9" },
+        { "label": "C", "text": "10" },
+        { "label": "D", "text": "45" },
+        { "label": "E", "text": "90" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 19,
+      "question": "A vasorrú bába házikója 3 helyiségből áll. Az egyes helyiségekből több ajtó is nyílhat a szomszédosakba, és a házikónak 1 ajtaja van kifelé. Hány ajtaja lehet egy helyiségnek, ha mindegyiknek ugyanannyi ajtaja van?",
+      "options": [
+        { "label": "A", "text": "2" },
+        { "label": "B", "text": "4" },
+        { "label": "C", "text": "5" },
+        { "label": "D", "text": "6" },
+        { "label": "E", "text": "Egyik sem" }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Hány olyan négyjegyű pozitív egész szám van, amelynek - az utolsó kivételével - minden számjegye azt mutatja meg, hogy az utána álló számjegy hányszor szerepel közvetlenül mögötte? (Ha például az egyik számjegy 2, az azt jelenti, hogy közvetlenül mögötte 2 egyforma számjegynek kell al- nia, az. ezcket követo számjegy - ha van ilyen - már ezektốl különböző.)",
+      "options": [
+        { "label": "A", "text": "0" },
+        { "label": "B", "text": "1" },
+        { "label": "C", "text": "9" },
+        { "label": "D", "text": "10" },
+        { "label": "E", "text": "1" }
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}

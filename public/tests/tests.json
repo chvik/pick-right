@@ -10,5 +10,11 @@
     "title": "Zrínyi 2024 II. forduló",
     "file": "zrinyi-2024-2.json",
     "questionCount": 23
+  },
+  {
+    "id": "zrinyi-2003-negyedikes",
+    "title": "Zrínyi 2003 - Negyedikes",
+    "file": "zrinyi-2003-negyedikes.json",
+    "questionCount": 19
   }
 ]
